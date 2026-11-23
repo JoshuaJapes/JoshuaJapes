@@ -1,5 +1,4 @@
 ### Joshua Penny — Senior Cyber Threat Intelligence Analyst
-[LinkedIn](https://www.linkedin.com/in/joshua-penny-50578b105) · [X](https://x.com/josh_penny) · [Medium](https://medium.com/@joshuapenny88)
 
 Senior CTI Analyst working cross-sector, focused on tracking adversary infrastructure and turning open-source reporting into actionable intelligence and validated detections.
 
