@@ -4,7 +4,7 @@ Senior CTI Analyst working cross-sector, focused on tracking adversary infrastru
 
 I use this space to build public YARA/KQL detection libraries, experiment with LLM-assisted CTI workflows, and archive my published threat research. 
 
-Off grid, I’m an avid Fantasy and Sci-Fi reader, devouring the works of John Gwynne, Joe Abercrombie, James Islington, and much more. To balance this out, I maintain a regular presence at the local gym and walk my energetic Boxer dog, Rocky, twice a day.
+Off grid, I’m an avid Fantasy and Sci-Fi reader, devouring the works of John Gwynne, Joe Abercrombie, James Islington, and much more. To balance this out, I maintain a regular presence at the local gym and walk my energetic Boxer dog twice a day.
 
 #### Core Focus
 1. **Adversary & Campaign Tracking:** End-to-end intrusion analysis across ransomware affiliates, initial access brokers, and social-engineering ecosystems.
