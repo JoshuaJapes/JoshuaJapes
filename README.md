@@ -1,4 +1,4 @@
-### Joshua Penny — Senior Cyber Threat Intelligence Analyst
+### Joshua Penny, Senior Cyber Threat Intelligence Analyst
 
 Senior CTI Analyst working cross-sector, focused on tracking adversary infrastructure and turning open-source reporting into actionable intelligence and validated detections.
 
