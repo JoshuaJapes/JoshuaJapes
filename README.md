@@ -16,7 +16,7 @@ Off grid, I’m an avid Fantasy and Sci-Fi reader, devouring the works of John G
 
 #### Active Repositories
 - **[yara_rules](https://github.com/JoshuaJapes/yara-rules)** — Custom YARA rules mapped to MITRE ATT&CK and public OSINT reporting.
-- **[100_days_of_kql](https://github.com/JoshuaJapes/100_days_of_kql)** — Defender & Sentinel hunting queries paired with atomic emulation scripts and false-positive baselines.
+- **[100_days_of_kql](https://github.com/JoshuaJapes/kql-hunting-queries)** — Defender & Sentinel hunting queries paired with atomic emulation scripts and false-positive baselines.
 
 #### Published Research & Articles
 
